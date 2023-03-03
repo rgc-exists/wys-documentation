@@ -1,7 +1,7 @@
 ---
 permalink: /objects/obj_room_of_haha_screen
 ---
-
+<pre>
 # Room of Haha Screen  
 ## obj_room_of_haha_screen  
   
@@ -50,3 +50,4 @@ gml_Object_obj_room_of_haha_screen_Draw_0
 gml_Object_obj_room_of_haha_screen_PreCreate_0  
 
   
+</pre>
