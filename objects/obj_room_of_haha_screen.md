@@ -27,7 +27,7 @@ Is Sensor = `false`
 Collision Shape = `Box`  
 &nbsp;
 ## Physics Values
-# The physics values in this object are meaningless because `Uses Physics` is set to false. (See General Values)
+### The physics values in this object are meaningless because `Uses Physics` is set to false. (See General Values)
 Density = `0.5`  
 Restitution = `0.1`  
 Group = `1`  
