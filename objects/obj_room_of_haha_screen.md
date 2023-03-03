@@ -3,7 +3,7 @@ permalink: /objects/obj_room_of_haha_screen
 ---
 # Room of Haha Screen  
 ## obj_room_of_haha_screen  
-  
+&nbsp;  
 ## Description  
 The screen shown in Squid's Presentation Room (RoomOfHaha).  
 This screen changes its appearance based on the images you put in this directory:
@@ -12,10 +12,10 @@ These images will then be played in game as a "presentation" and allow you to ma
 The images must be titled in the following format:  
 `Slide-[N]` Where N is the index the slide appears in the presentation loop.
 The start at `Slide-1` and only go up to `Slide-11`.  
-  
+&nbsp;  
 ## Sprite  
 ### spr_screen_size_test  
-  
+&nbsp;  
 ## General Values  
 Visible = `true`  
 Solid = `false`  
@@ -25,7 +25,7 @@ Texture Mask ID = `[none]`
 Uses Physics = `false`  
 Is Sensor = `false`  
 Collision Shape = `Box`  
-
+&nbsp;
 ## Physics Values
 # The physics values in this object are meaningless because `Uses Physics` is set to false. (See General Values)
 Density = `0.5`  
@@ -37,7 +37,7 @@ Friction = `0.2`
 Is Awake = `true`  
 Is Kinematic = `false`  
 Physics Shape Vertices = `[]`  
-
+&nbsp;
 ## Events:  
 ### Create  
 gml_Object_obj_room_of_haha_screen_Create_0  
