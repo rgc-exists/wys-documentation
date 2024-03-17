@@ -9,7 +9,7 @@ permalink: /functions/wallspr_white
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

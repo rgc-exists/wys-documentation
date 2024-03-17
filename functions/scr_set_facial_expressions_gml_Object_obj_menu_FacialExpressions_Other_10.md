@@ -9,7 +9,7 @@ permalink: /functions/scr_set_facial_expressions_gml_Object_obj_menu_FacialExpre
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -9,7 +9,7 @@ permalink: /functions/scr_draw_boss_hp
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -8,11 +8,11 @@ permalink: /functions/scr_ai_look_at_target_gml_Object_obj_ai_eye_Step_0
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-### argument0, 
-
+### argument0
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument1
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

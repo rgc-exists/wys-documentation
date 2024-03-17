@@ -8,14 +8,14 @@ permalink: /functions/scr_create_clipboard_struct_from_object
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-### argument0, 
-
+### argument0
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument1, 
-
+### argument1
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument2
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -9,7 +9,7 @@ permalink: /functions/scr_lvled_powertrigg_activate_helper_gml_Object_obj_lvledt
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

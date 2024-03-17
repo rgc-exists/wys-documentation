@@ -9,7 +9,7 @@ permalink: /functions/scr_change_squid_alpha_gml_Object_obj_menu_SquidOpacity_Ot
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

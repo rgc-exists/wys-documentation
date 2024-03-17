@@ -8,11 +8,11 @@ permalink: /functions/scr_launch_param_array
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-### argument0, 
-
+### argument0
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument1
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

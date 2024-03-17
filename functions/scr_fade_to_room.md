@@ -9,7 +9,7 @@ permalink: /functions/scr_fade_to_room
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

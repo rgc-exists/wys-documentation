@@ -9,7 +9,7 @@ permalink: /functions/get_leveleditor_database_element
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

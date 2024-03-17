@@ -9,7 +9,7 @@ permalink: /functions/scr_death_feedback_for_obj
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

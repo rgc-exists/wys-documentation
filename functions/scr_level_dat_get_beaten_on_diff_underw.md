@@ -9,7 +9,7 @@ permalink: /functions/scr_level_dat_get_beaten_on_diff_underw
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

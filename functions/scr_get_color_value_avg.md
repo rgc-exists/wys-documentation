@@ -9,7 +9,7 @@ permalink: /functions/scr_get_color_value_avg
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -8,23 +8,23 @@ permalink: /functions/scr_draw_rectangle_border_fromto
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-### argument0, 
-
+### argument0
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument1, 
-
+### argument1
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument2, 
-
+### argument2
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument3, 
-
+### argument3
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument4, 
-
+### argument4
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument5
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

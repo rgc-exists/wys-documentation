@@ -8,35 +8,35 @@ permalink: /functions/modhelper_createprop_float
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-### argument0, 
-
+### argument0
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument1, 
-
+### argument1
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument2, 
-
+### argument2
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument3, 
-
+### argument3
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument4, 
-
+### argument4
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument5, 
-
+### argument5
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument6, 
-
+### argument6
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument7, 
-
+### argument7
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
-### argument8, 
-
+### argument8
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument9
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

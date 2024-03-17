@@ -9,7 +9,7 @@ permalink: /functions/scr_sv_list_string
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 

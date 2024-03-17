@@ -9,7 +9,7 @@ permalink: /functions/hlp_show_placement_preview
 &nbsp;  
 # Arguments
 ### argument0
-
+(No description provided. Feel free to make a pull request!)
 &nbsp;  
 
 
