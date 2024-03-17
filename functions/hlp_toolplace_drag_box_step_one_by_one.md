@@ -1,0 +1,30 @@
+---
+permalink: /functions/hlp_toolplace_drag_box_step_one_by_one
+---
+# Room of Haha Screen  
+## hlp_toolplace_drag_box_step_one_by_one  
+&nbsp;  
+# Description  
+(No description provided. Feel free to make a pull request!) 
+&nbsp;  
+# Arguments
+## argument0, 
+
+&nbsp;  
+## argument1, 
+
+&nbsp;  
+## argument2, 
+
+&nbsp;  
+## argument3, 
+
+&nbsp;  
+## argument4, 
+
+&nbsp;  
+## argument5
+
+&nbsp;  
+
+
