@@ -9,7 +9,7 @@ permalink: /functions/lvlwire_destroy_every_wire_connected_to
 &nbsp;  
 # Arguments
 ### argument0
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -9,7 +9,7 @@ permalink: /functions/scr_set_stay_in_back_gml_Object_obj_menu_StayInBack_Other_
 &nbsp;  
 # Arguments
 ### argument0
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 
 

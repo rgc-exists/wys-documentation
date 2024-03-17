@@ -9,10 +9,10 @@ permalink: /functions/scr_convert_bits_to_bools
 &nbsp;  
 # Arguments
 ### argument0
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument1
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 
 

@@ -9,10 +9,10 @@ permalink: /functions/hlp_copy_tool_properties_to_newly_created_obj
 &nbsp;  
 # Arguments
 ### argument0
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 ### argument1
-(No description provided. Feel free to make a pull request!)
+(No argument info provided. Feel free to make a pull request!)
 &nbsp;  
 
 
