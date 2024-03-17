@@ -8,7 +8,7 @@ permalink: /functions/aivl_event_manual_difficulty_change
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

@@ -8,10 +8,10 @@ permalink: /functions/SetAchievementIfFileSizeDoesntEqual_gml_Object_obj_aivl_p_
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1
+### argument1
 
 &nbsp;  
 

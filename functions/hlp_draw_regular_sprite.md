@@ -8,10 +8,10 @@ permalink: /functions/hlp_draw_regular_sprite
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1
+### argument1
 
 &nbsp;  
 

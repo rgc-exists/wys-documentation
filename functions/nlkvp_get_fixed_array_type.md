@@ -8,7 +8,7 @@ permalink: /functions/nlkvp_get_fixed_array_type
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

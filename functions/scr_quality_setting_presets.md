@@ -8,7 +8,7 @@ permalink: /functions/scr_quality_setting_presets
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

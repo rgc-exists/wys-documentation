@@ -8,7 +8,7 @@ permalink: /functions/get_right_bound_of_obj
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

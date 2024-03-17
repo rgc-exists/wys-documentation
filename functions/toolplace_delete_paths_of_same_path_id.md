@@ -8,10 +8,10 @@ permalink: /functions/toolplace_delete_paths_of_same_path_id
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1
+### argument1
 
 &nbsp;  
 

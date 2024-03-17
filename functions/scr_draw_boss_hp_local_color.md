@@ -8,16 +8,16 @@ permalink: /functions/scr_draw_boss_hp_local_color
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1, 
+### argument1, 
 
 &nbsp;  
-## argument2, 
+### argument2, 
 
 &nbsp;  
-## argument3
+### argument3
 
 &nbsp;  
 

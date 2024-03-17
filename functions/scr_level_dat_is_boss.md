@@ -8,7 +8,7 @@ permalink: /functions/scr_level_dat_is_boss
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

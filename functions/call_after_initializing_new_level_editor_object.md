@@ -8,7 +8,7 @@ permalink: /functions/call_after_initializing_new_level_editor_object
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

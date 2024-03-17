@@ -8,7 +8,7 @@ permalink: /functions/scr_editor_savegames_delete_file
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

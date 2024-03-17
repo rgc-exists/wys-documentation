@@ -8,7 +8,7 @@ permalink: /functions/read_color_file_gml_Object_obj_levelstyler_Other_12
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0
+### argument0
 
 &nbsp;  
 

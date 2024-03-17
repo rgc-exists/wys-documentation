@@ -8,28 +8,28 @@ permalink: /functions/arab_draw_text_ext_transformed
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1, 
+### argument1, 
 
 &nbsp;  
-## argument2, 
+### argument2, 
 
 &nbsp;  
-## argument3, 
+### argument3, 
 
 &nbsp;  
-## argument4, 
+### argument4, 
 
 &nbsp;  
-## argument5, 
+### argument5, 
 
 &nbsp;  
-## argument6, 
+### argument6, 
 
 &nbsp;  
-## argument7
+### argument7
 
 &nbsp;  
 

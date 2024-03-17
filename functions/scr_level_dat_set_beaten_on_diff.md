@@ -8,10 +8,10 @@ permalink: /functions/scr_level_dat_set_beaten_on_diff
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1
+### argument1
 
 &nbsp;  
 

@@ -8,10 +8,10 @@ permalink: /functions/toolplace_delete_blocks_of_same_type
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
-## argument0, 
+### argument0, 
 
 &nbsp;  
-## argument1
+### argument1
 
 &nbsp;  
 
