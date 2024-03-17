@@ -1,27 +1,26 @@
 ---
 permalink: /functions/scr_instance_nearest_with_line_of_sight
 ---
-# Room of Haha Screen  
-## scr_instance_nearest_with_line_of_sight  
+# scr_instance_nearest_with_line_of_sight  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument2
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument3
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument4
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

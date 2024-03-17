@@ -1,21 +1,20 @@
 ---
 permalink: /functions/scr_create_clipboard_struct_from_object
 ---
-# Room of Haha Screen  
-## scr_create_clipboard_struct_from_object  
+# scr_create_clipboard_struct_from_object  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument2
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

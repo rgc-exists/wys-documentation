@@ -1,18 +1,17 @@
 ---
 permalink: /functions/scr_array_has
 ---
-# Room of Haha Screen  
-## scr_array_has  
+# scr_array_has  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

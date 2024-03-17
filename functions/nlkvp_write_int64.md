@@ -1,21 +1,20 @@
 ---
 permalink: /functions/nlkvp_write_int64
 ---
-# Room of Haha Screen  
-## nlkvp_write_int64  
+# nlkvp_write_int64  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument2
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

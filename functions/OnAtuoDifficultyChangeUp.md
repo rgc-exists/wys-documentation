@@ -1,8 +1,7 @@
 ---
 permalink: /functions/OnAtuoDifficultyChangeUp
 ---
-# Room of Haha Screen  
-## OnAtuoDifficultyChangeUp  
+# OnAtuoDifficultyChangeUp  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 

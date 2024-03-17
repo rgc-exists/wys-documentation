@@ -1,21 +1,20 @@
 ---
 permalink: /functions/get_dialog_audiostream_sound
 ---
-# Room of Haha Screen  
-## get_dialog_audiostream_sound  
+# get_dialog_audiostream_sound  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument2
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

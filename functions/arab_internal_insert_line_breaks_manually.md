@@ -1,18 +1,17 @@
 ---
 permalink: /functions/arab_internal_insert_line_breaks_manually
 ---
-# Room of Haha Screen  
-## arab_internal_insert_line_breaks_manually  
+# arab_internal_insert_line_breaks_manually  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

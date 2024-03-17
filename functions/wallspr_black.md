@@ -1,15 +1,14 @@
 ---
 permalink: /functions/wallspr_black
 ---
-# Room of Haha Screen  
-## wallspr_black  
+# wallspr_black  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 

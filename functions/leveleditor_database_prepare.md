@@ -1,8 +1,7 @@
 ---
 permalink: /functions/leveleditor_database_prepare
 ---
-# Room of Haha Screen  
-## leveleditor_database_prepare  
+# leveleditor_database_prepare  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 

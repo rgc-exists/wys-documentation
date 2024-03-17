@@ -1,8 +1,7 @@
 ---
 permalink: /functions/leveleditor_load
 ---
-# Room of Haha Screen  
-## leveleditor_load  
+# leveleditor_load  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 

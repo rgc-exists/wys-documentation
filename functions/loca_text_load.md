@@ -1,8 +1,7 @@
 ---
 permalink: /functions/loca_text_load
 ---
-# Room of Haha Screen  
-## loca_text_load  
+# loca_text_load  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 

@@ -1,18 +1,17 @@
 ---
 permalink: /functions/scr_secret_file_option
 ---
-# Room of Haha Screen  
-## scr_secret_file_option  
+# scr_secret_file_option  
 &nbsp;  
 # Description  
 (No description provided. Feel free to make a pull request!) 
 &nbsp;  
 # Arguments
 ### argument0
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 ### argument1
-(No argument info provided. Feel free to make a pull request!)
-&nbsp;  
+
+&nbsp;    
 
 
